@@ -10,4 +10,5 @@ https://github.com/opendigg/awesome-github-wechat-weapp
 
 CSS Flex弹性盒布局<br>
 http://www.jianshu.com/p/07e0c16a4ff5#<br>
-http://www.jianshu.com/p/baf4fc79374b
+http://www.jianshu.com/p/baf4fc79374b<br>
+http://www.ruanyifeng.com/blog/2015/07/flex-examples.html
